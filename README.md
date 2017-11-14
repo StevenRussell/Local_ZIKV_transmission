@@ -4,6 +4,6 @@ In areas of the continental U.S. and Hawaii with ecological conditions amenable 
 
 ## Running the simulation
 
-To run the simulation, use the code Zika Simulation Code.R. 
+To run the simulation, use the code 'Simulation Code.R'. 
 
 Please note: this code creates a very large dataset. Lowering to 1,000 iterations (n.samples <- 1000)  will reduce computation time and provide similar results.
