@@ -1,0 +1,35 @@
+type,l95,u95
+arth,0.0084,0.014
+conj,0.0014,0.0026
+fever,0.037,0.067
+head,0.027,0.036
+rash,0.043,0.061
+arth+conj,4.90E-06,1.80E-05
+arth+fever,0.00096,0.0032
+arth+head,0.0006,0.0015
+arth+rash,0.00074,0.0013
+conj+fever,0.00007,0.00019
+conj+head,0.00001,0.00003
+conj+rash,0.00036,0.00065
+fever+head,0.0019,0.0036
+fever+rash,0.0035,0.0054
+head+rash,0.0012,0.0018
+arth+conj+fever,0,0.00001
+arth+conj+head,0,0.000001
+arth+conj+rash,1.35E-06,0.00000416
+arth+fever+head,0.00015,0.00052
+arth+fever+rash,3.27E-05,0.0001193
+arth+head+rash,0.00001862,0.0000545
+conj+fever+head,0,0.00001
+conj+fever+rash,7.08E-06,0.00002306
+conj+head+rash,3.94E-06,0.00000997
+fever+head+rash,7.35E-05,0.0001782
+arth+conj+fever+head,0,0.000001
+arth+fever+head+rash,0.00001,0.00004
+arth+conj+head+rash,0,0.000001
+arth+conj+fever+rash,0,0.00001
+conj+fever+head+rash,0,0.00001
+arth+conj+fever+head+rash,0,0.000001
+2 or more,8.72E-03,1.55E-02
+3 or more,0.000257213,0.00074919
+rash + 1,5.64E-03,8.64E-03
